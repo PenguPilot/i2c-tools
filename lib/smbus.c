@@ -21,6 +21,7 @@
     MA 02110-1301 USA.
 */
 
+#include <stddef.h>
 #include <errno.h>
 #include <i2c/smbus.h>
 #include <sys/ioctl.h>
